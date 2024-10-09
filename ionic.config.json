@@ -1,0 +1,8 @@
+{
+  "name": "bookroom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "838280ce"
+}
